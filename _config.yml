@@ -1,0 +1,12 @@
+title: LiXizhi's Personal Website
+email: lixizhi@yeah.net
+description: Xizhi's Ideas & Blogs
+github_username: LiXizhi
+permalink: '/:year/:month/:day/:title/'
+viewsourceroot: 'https://github.com/LiXizhi/LiXizhi.github.io/blob/master/'
+newsourceroot: 'https://github.com/LiXizhi/LiXizhi.github.io/new/master'
+disqus_shortname: lixizhi
+disqus_url: 'http://lixizhi.github.io'
+markdown: kramdown
+baseurl: ''
+url: ''
